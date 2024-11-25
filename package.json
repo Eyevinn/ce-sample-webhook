@@ -1,0 +1,14 @@
+{
+  "name": "fast-engine-webhook-examples",
+  "version": "1.0.0",
+  "description": "Example webhooks for Channel Engine",
+  "main": "webhook.js",
+  "scripts": {
+    "start": "node webhook.js"
+  },
+  "author": "Eyevinn Technology AB",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^5.1.0"
+  }
+}
